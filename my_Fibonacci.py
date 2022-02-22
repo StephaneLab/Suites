@@ -3,6 +3,7 @@
 import pandas as pd
 import numpy as np
 def my_Fibonacci(n):
+    # Pour les élèves de Terminale
     # Calcule les n premiers termes d'une suite de Fibonacci
     # Initialisation F(0) = 0, F(1) = 1
     # Formule de récurrence : F(n) = F(n-1) + F(n-2)
